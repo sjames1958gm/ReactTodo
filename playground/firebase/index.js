@@ -2,11 +2,11 @@ import firebase from 'firebase';
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDX1mwas6cb7a0h2omihYIZw99rK0vzxO0",
-  authDomain: "sjames-todo-app.firebaseapp.com",
-  databaseURL: "https://sjames-todo-app.firebaseio.com",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
   storageBucket: "sjames-todo-app.appspot.com",
-  messagingSenderId: "446537071503"
+  messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
